@@ -2,4 +2,5 @@
 
 ### Guide ###
 1. To run the script change the path at the top of solve.m to the relevant directory.
-2. Run solve.m
+2. Run solve.m.
+3. Run any of the Analysis Scripts.
